@@ -8,5 +8,3 @@ deposit = per_cent
 print(deposit)
 print('The max sum you could earn:', max(deposit))
 
-("deposit_per_year = float(per_cent.values()) * money / 100\n"
- "print(deposit_per_year)")
